@@ -4,7 +4,7 @@ A web page about front-end web development with an introduction and three sectio
 
 ## Live Demo
 
-[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+[View the project]
 
 ## Features
 
@@ -32,7 +32,7 @@ A web page about front-end web development with an introduction and three sectio
 
 1. Clone the repository:
 ```
-   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+  https://github.com/aqeelahlabs/A-Video-Compilation-Page.git
 ```
 2. Open `index.html` in your browser. You'll need an internet connection for the videos to load. If a video shows an error when you open the file directly from your computer, view it through the GitHub Pages link instead.
 
