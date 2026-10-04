@@ -4,7 +4,7 @@ A web page about front-end web development with an introduction and three sectio
 
 ## Live Demo
 
-[View the project]
+https://aqeelahlabs.github.io/A-Video-Compilation-Page/
 
 ## Features
 
